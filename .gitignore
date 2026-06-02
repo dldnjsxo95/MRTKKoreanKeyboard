@@ -1,0 +1,5 @@
+# Unity 패키지 repo — 소스/메타만 추적. (.meta 는 절대 무시하지 말 것)
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak

@@ -1,0 +1,20 @@
+{
+    "name": "ShareLens.Keyboard",
+    "rootNamespace": "ShareLens.Keyboard",
+    "references": [
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.XR.Interaction.Toolkit",
+        "MixedReality.Toolkit.Core",
+        "MixedReality.Toolkit.UXCore"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
