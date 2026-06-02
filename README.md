@@ -25,17 +25,17 @@ MRTK3 기반 **독립형 두벌식 한글 가상 키보드**. 월드 스페이�
 `Window ▸ Package Manager ▸ + ▸ Add package from git URL...` 에 입력:
 
 ```
-http://192.168.50.230:3000/PnCSolution/MRTKKeyboard.git
+https://github.com/dldnjsxo95/MRTKKoreanKeyboard.git
 ```
 
 ### 방법 2 — manifest.json 직접 편집
 `Packages/manifest.json` 의 `dependencies` 에 추가:
 
 ```json
-"com.pncsolution.mrtkkeyboard": "http://192.168.50.230:3000/PnCSolution/MRTKKeyboard.git"
+"com.dldnjsxo95.mrtkkoreankeyboard": "https://github.com/dldnjsxo95/MRTKKoreanKeyboard.git"
 ```
 
-특정 버전(태그) 고정: `...MRTKKeyboard.git#1.0.0`
+특정 버전(태그) 고정: `https://github.com/dldnjsxo95/MRTKKoreanKeyboard.git#1.0.1`
 
 ## 빠른 시작
 

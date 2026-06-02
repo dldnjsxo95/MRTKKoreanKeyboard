@@ -1,5 +1,5 @@
 {
-  "name": "com.pncsolution.mrtkkeyboard",
+  "name": "com.dldnjsxo95.mrtkkoreankeyboard",
   "version": "1.0.1",
   "displayName": "MRTK Korean Keyboard",
   "description": "MRTK3 기반 독립형 두벌식 한글 가상 키보드. 월드 스페이스 캔버스, Grab 이동 핸들, TMP_InputField 자동 연동을 제공합니다. MRTK3(UXCore/Core/SpatialManipulation) 설치가 선행되어야 합니다.",
@@ -15,7 +15,11 @@
     "vr"
   ],
   "author": {
-    "name": "PnCSolution"
+    "name": "dldnjsxo95"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dldnjsxo95/MRTKKoreanKeyboard.git"
   },
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6",

@@ -1,8 +1,8 @@
 # License
 
-Copyright (c) PnCSolution. All rights reserved.
+Copyright (c) dldnjsxo95.
 
-본 패키지는 PnCSolution 내부 사용을 위한 것입니다. 외부 공개/재배포 전에는 아래 서드파티 자산의 라이선스를 반드시 검토하세요.
+> 코드 라이선스(MIT/Apache-2.0 등)는 배포자가 지정하세요. 아래 서드파티 자산은 각자의 라이선스를 따릅니다.
 
 ## Third-Party Notices
 
