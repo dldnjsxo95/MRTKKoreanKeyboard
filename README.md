@@ -72,10 +72,11 @@ myInputField.onSubmit.AddListener(text => { /* Enter 확정 */ });
 
 > ⚠️ **라이선스**: 맑은 고딕은 © Microsoft 폰트로 재배포 제약이 있을 수 있습니다. 외부 공개 시 제거 후 오픈 폰트(Noto Sans KR, 나눔고딕 등)로 교체하세요. **내부 사용 한정.**
 
-## 에디터 데모
+## 샘플 / 에디터 데모
 
-`Tools/ShareLens/Create Demo InputField` — 월드 스페이스 데모 InputField 를 즉시 생성합니다.
-`Tools/ShareLens/Test Hangul Composer` — 두벌식 오토마타 스모크 테스트(15/15).
+- **예제 씬**: Package Manager 에서 이 패키지 선택 → **Samples ▸ "Demo Scene" ▸ Import** (`Samples~/Demo`). 키보드 + 데모 InputField 가 배치된 씬이 프로젝트로 복사됩니다. (MRTK 리그/EventSystem 선행 필요)
+- `Tools/ShareLens/Create Demo InputField` — 월드 스페이스 데모 InputField 를 즉시 생성합니다.
+- `Tools/ShareLens/Test Hangul Composer` — 두벌식 오토마타 스모크 테스트(15/15).
 
 ## 구성
 

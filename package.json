@@ -20,5 +20,12 @@
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.xr.interaction.toolkit": "2.5.2"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "키보드와 데모 InputField 가 배치된 예제 씬. (MRTK 리그/EventSystem 선행 필요)",
+      "path": "Samples~/Demo"
+    }
+  ]
 }
