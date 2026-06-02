@@ -2,6 +2,12 @@
 
 이 프로젝트의 모든 주요 변경 사항을 기록합니다. 형식은 [Keep a Changelog](https://keepachangelog.com/) 를, 버전은 [SemVer](https://semver.org/) 를 따릅니다.
 
+## [1.0.1]
+
+### Changed
+- 기본 폰트를 맑은 고딕(© Microsoft, 재배포 제약) → **Pretendard(SIL OFL)** 로 교체. 외부 배포 가능. `Fonts/LICENSE.txt`(OFL) 동봉.
+- 폰트 빌더 메뉴: `Create Malgun TMP Font` → `Create Pretendard TMP Font`.
+
 ## [1.0.0]
 
 ### Added

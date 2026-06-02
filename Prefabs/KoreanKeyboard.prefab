@@ -68,8 +68,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\uF5BE"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 533bdd8d5c92b52448ee2ecf7bd828a4, type: 2}
-  m_sharedMaterial: {fileID: -1005824763306460071, guid: 533bdd8d5c92b52448ee2ecf7bd828a4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cabca51297d10d348943311de7f97746, type: 2}
+  m_sharedMaterial: {fileID: 1578912003412994957, guid: cabca51297d10d348943311de7f97746, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -992,8 +992,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Label
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 533bdd8d5c92b52448ee2ecf7bd828a4, type: 2}
-  m_sharedMaterial: {fileID: -1005824763306460071, guid: 533bdd8d5c92b52448ee2ecf7bd828a4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cabca51297d10d348943311de7f97746, type: 2}
+  m_sharedMaterial: {fileID: 1578912003412994957, guid: cabca51297d10d348943311de7f97746, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1147,8 +1147,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Button
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 533bdd8d5c92b52448ee2ecf7bd828a4, type: 2}
-  m_sharedMaterial: {fileID: -1005824763306460071, guid: 533bdd8d5c92b52448ee2ecf7bd828a4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cabca51297d10d348943311de7f97746, type: 2}
+  m_sharedMaterial: {fileID: 1578912003412994957, guid: cabca51297d10d348943311de7f97746, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1496,7 +1496,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _keyPrefab: {fileID: 3666645987970876549, guid: 3688a264dab6fe14383100eb7cdd9192, type: 3}
   _keysRoot: {fileID: 6174973117027557939}
-  _koreanFont: {fileID: 11400000, guid: 6c8b8d530fc037d488b1bb262dba3a53, type: 2}
+  _koreanFont: {fileID: 11400000, guid: cabca51297d10d348943311de7f97746, type: 2}
   _keySize: 32
   _spacing: 2
   _startInHangul: 0

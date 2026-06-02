@@ -15,7 +15,7 @@ namespace ShareLens.Keyboard.EditorTools
         // 폰트는 설치 위치(Assets/ vs Packages/)에 무관하게 GUID 검색으로 찾는다(패키지 배포 대응).
         private static TMP_FontAsset FindKoreanFont()
         {
-            string[] guids = AssetDatabase.FindAssets("Malgun SDF t:TMP_FontAsset");
+            string[] guids = AssetDatabase.FindAssets("Pretendard SDF t:TMP_FontAsset");
             return guids.Length > 0
                 ? AssetDatabase.LoadAssetAtPath<TMP_FontAsset>(AssetDatabase.GUIDToAssetPath(guids[0]))
                 : null;

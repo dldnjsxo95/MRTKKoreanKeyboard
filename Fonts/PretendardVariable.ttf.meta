@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 186623a5e9daa214c907e390cee90b5f
+guid: e124e98f48c5c7347a5a066229840171
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Malgun Gothic
+  - Pretendard Variable
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

@@ -3,3 +3,7 @@
 Thumbs.db
 *.tmp
 *.bak
+
+# 로컬 작업용 씬 사본(배포 제외). 배포 샘플은 Samples~/Demo 에 위치.
+/Sample/
+/Sample.meta

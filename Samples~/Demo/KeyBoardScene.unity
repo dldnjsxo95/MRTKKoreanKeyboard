@@ -688,8 +688,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6c8b8d530fc037d488b1bb262dba3a53, type: 2}
-  m_sharedMaterial: {fileID: -3984316356862907132, guid: 6c8b8d530fc037d488b1bb262dba3a53, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cabca51297d10d348943311de7f97746, type: 2}
+  m_sharedMaterial: {fileID: 1578912003412994957, guid: cabca51297d10d348943311de7f97746, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1105,8 +1105,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\uC5EC\uAE30\uB97C \uB20C\uB7EC \uC785\uB825\uD558\uC138\uC694"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6c8b8d530fc037d488b1bb262dba3a53, type: 2}
-  m_sharedMaterial: {fileID: -3984316356862907132, guid: 6c8b8d530fc037d488b1bb262dba3a53, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cabca51297d10d348943311de7f97746, type: 2}
+  m_sharedMaterial: {fileID: 1578912003412994957, guid: cabca51297d10d348943311de7f97746, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

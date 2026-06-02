@@ -68,9 +68,9 @@ myInputField.onSubmit.AddListener(text => { /* Enter 확정 */ });
 
 ## 폰트
 
-`Fonts/Malgun SDF.asset`(맑은 고딕 동적 SDF, 한글 11,172자)이 포함됩니다. 직접 생성하려면 `Tools/ShareLens/Create Malgun TMP Font` 메뉴를 사용하세요.
+`Fonts/Pretendard SDF.asset`(**Pretendard** 동적 SDF, 한글 11,172자)이 포함됩니다. Pretendard 는 **SIL Open Font License(OFL)** 라 자유롭게 재배포·임베드할 수 있습니다(`Fonts/LICENSE.txt` 동봉). 직접 재생성하려면 `Tools/ShareLens/Create Pretendard TMP Font` 메뉴를 사용하세요.
 
-> ⚠️ **라이선스**: 맑은 고딕은 © Microsoft 폰트로 재배포 제약이 있을 수 있습니다. 외부 공개 시 제거 후 오픈 폰트(Noto Sans KR, 나눔고딕 등)로 교체하세요. **내부 사용 한정.**
+> 다른 폰트로 바꾸려면 새 폰트의 TMP SDF 에셋을 만들고 `KoreanKeyboard` 프리팹의 `_koreanFont` 에 지정하면 됩니다.
 
 ## 샘플 / 에디터 데모
 
